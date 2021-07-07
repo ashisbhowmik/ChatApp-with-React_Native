@@ -1,5 +1,5 @@
 # SIGNAL-Clone-with-React_Native
-Realtime chat application with firebase authentication
+Realtime Android and IOS and also Web chat application with firebase authentication
 
 Technology thats are used For This clone-->💯💯
 
